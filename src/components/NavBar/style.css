@@ -1,0 +1,22 @@
+.NavBar{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #A8E890;
+}
+
+ul{
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    align-content: center;
+}
+li{
+    margin: 17px;
+    align-items: center;
+    text-align: center;
+    text-decoration: double;
+}
+a{
+    text-decoration: double;
+}
